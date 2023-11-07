@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "660700113086",
+    "project_id": "streamcontrol-bb927",
+    "storage_bucket": "streamcontrol-bb927.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:660700113086:android:219acc009051ea4bfa16ef",
+        "android_client_info": {
+          "package_name": "com.br.streamcontrol"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfm_trTiddfb33rpgi8GxJGPUjuNHkPwI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

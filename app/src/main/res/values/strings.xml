@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">StreamControl</string>
+    <string name="hello">Olá, </string>
+    <string name="create_account">Crie uma Conta</string>
+    <string name="welcome">Bem-vindo de Volta</string>
+    <string name="first_name">Primeiro Nome</string>
+    <string name="last_name">Sobrenome</string>
+    <string name="email">Email</string>
+    <string name="password">Senha</string>
+    <string name="hide_password">Esconder senha</string>
+    <string name="show_password">Mostrar senha</string>
+    <string name="terms_and_conditions">Ao continuar, você aceita nossa Política de Privacidade e Termos de Uso</string>
+    <string name="terms_and_conditions_header">Termos de Uso</string>
+    <string name="register">Registrar</string>
+    <string name="login">Entrar</string>
+    <string name="or">ou</string>
+    <string name="go_to_login">Já tem uma conta? Faça login</string>
+    <string name="forgot_password">Esqueceu sua senha</string>
+    <string name="home">Home</string>
+    <string name="logout">Sair</string>
+    <string name="menu">Menu</string>
+    <string name="navigation_header">Menu do Aplicativo</string>
+
+</resources>
